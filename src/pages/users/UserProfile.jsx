@@ -29,7 +29,7 @@ const UserProfile = () =>{
         setShow(false);
     } 
     const handleShowModal = ()=>{
-        //console.log("handleShowModal clicked")
+        //console.log("handleShowModal clicked now")
         setShow(true);
     }
 
